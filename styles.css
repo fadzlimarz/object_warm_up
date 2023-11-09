@@ -1,6 +1,7 @@
 body {
   max-width: 672px;
   margin: 0 auto;
+  padding: 0 10px;
   font-family: Roboto, sans-serif;
   font-size: 18px;
   line-height: 1.5;
@@ -13,7 +14,7 @@ h3 {
   line-height: 1.2;
 }
 
-button {
+footer button {
   padding: 10px 15px;
   border-radius: 5px;
 }
